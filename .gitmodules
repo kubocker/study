@@ -1,0 +1,6 @@
+[submodule "memos"]
+	path = memos
+	url = git@github.com:kubocker/__memo__.git
+[submodule "backup"]
+	path = backup
+	url = git@github.com:kubocker/study_backup.git
